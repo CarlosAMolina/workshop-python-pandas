@@ -4,6 +4,8 @@ First, we connect to the database using the commands explained in the docker fol
 
 In that folder you can see the server's password.
 
+We can import the database or create all the information manually.
+
 ### Import the database
 
 First, the database must exist
