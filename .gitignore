@@ -1,3 +1,4 @@
+/presentation/*.pdf
 __pycache__
 /python/env/
 *.swp

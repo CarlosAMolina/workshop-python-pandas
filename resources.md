@@ -12,6 +12,10 @@ https://www.tutorialspoint.com/mysql/mysql-database-export.htm
 
 https://phoenixnap.com/kb/import-and-export-mysql-database
 
+## LaTeX template
+
+https://www.latextemplates.com/template/beamer-presentation
+
 ## SQLAlchemy
 
 https://docs.sqlalchemy.org/en/14/core/engines.html
