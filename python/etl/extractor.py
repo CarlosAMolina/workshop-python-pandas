@@ -20,7 +20,10 @@ class Extractor:
         with engine.connect() as connection:
             name_df = cls._get_db_table_as_df("name", connection)
             profitability_df = cls._get_db_table_as_df("profitability", connection)
-        return [name_df, profitability_df]
+        return [
+            name_df,
+            profitability_df,
+        ]
 
     @classmethod
     def _get_db_engine(cls) -> "sqlalchemy.engine.base.Engine":
