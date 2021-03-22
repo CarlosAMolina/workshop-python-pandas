@@ -16,6 +16,10 @@ https://phoenixnap.com/kb/import-and-export-mysql-database
 
 https://www.latextemplates.com/template/beamer-presentation
 
+## Python. Origen de su nombre
+
+http://www.python.org/doc/faq/general/#why-is-it-called-python
+
 ## SQLAlchemy
 
 https://docs.sqlalchemy.org/en/14/core/engines.html

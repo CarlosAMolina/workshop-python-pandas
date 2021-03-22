@@ -1,5 +1,5 @@
 # Create the pdf file and delete unnecessary files.
-latex presentation.tex
+lualatex presentation.tex
 pdflatex presentation.tex
 rm *.aux
 rm *.dvi
