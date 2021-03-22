@@ -4,7 +4,7 @@ This project is a basic introduction to Pandas.
 
 ## Resources
 
-All the information used in this project is public, you can check the sources at resources.md.
+All the information used in this project is public, you can check the sources at the .tex presentation file.
 
 ## Software
 
