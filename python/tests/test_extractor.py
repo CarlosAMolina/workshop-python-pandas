@@ -7,6 +7,7 @@ from etl.extractor import Extractor
 
 
 class TestExtractor(unittest.TestCase):
+
     @mock.patch("etl.extractor.Extractor._get_db_table_as_df")
     @mock.patch("etl.extractor.Extractor._get_db_engine")
     def test_get_db_data_returns_correct_type(
@@ -19,4 +20,3 @@ class TestExtractor(unittest.TestCase):
         dfs = Extractor.get_dfs()
         self.assertEqual(len(dfs), 2)
         self.assertTrue(all(isinstance(df, pd.DataFrame) for df in dfs))
-
