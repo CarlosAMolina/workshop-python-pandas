@@ -1,6 +1,6 @@
 # Create the pdf file and delete unnecessary files.
-lualatex presentation.tex
-pdflatex presentation.tex
+lualatex python-pandas.tex
+pdflatex python-pandas.tex
 rm *.aux
 rm *.log
 rm *.nav
