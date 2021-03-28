@@ -1,6 +1,6 @@
 ## Introduction
 
-This project is a basic introduction to Pandas.
+This project is a basic introduction to Pandas and testing.
 
 ## Resources
 
